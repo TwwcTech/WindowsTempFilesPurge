@@ -1,5 +1,4 @@
 using System.Diagnostics;
-using System.Security.Policy;
 using WindowsTempFilesPurge.Backend.Purger;
 
 namespace WindowsTempFilesPurge
@@ -13,7 +12,7 @@ namespace WindowsTempFilesPurge
 
         private void TempPurgeForm_Load(object sender, EventArgs e)
         {
-            
+
         }
 
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
@@ -31,7 +30,7 @@ namespace WindowsTempFilesPurge
             TempFilesPurger purger = new();
             purger.PurgeTempFiles(PurgeProgressBar);
 
-            if(DownloadsCheckbox.Checked)
+            if (DownloadsCheckbox.Checked)
             {
                 purger.PurgeFilesInDownloads(PurgeProgressBar);
             }
