@@ -17,4 +17,5 @@
 
 
 
+
 **Full Changelog**: https://github.com/TwwcTech/WindowsTempFilesPurge/commits/v1.0.0
