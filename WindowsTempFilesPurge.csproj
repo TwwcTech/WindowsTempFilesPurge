@@ -2,10 +2,30 @@
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>net8.0-windows</TargetFramework>
+    <TargetFramework>net8.0-windows10.0.22621.0</TargetFramework>
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+    <StartupObject>WindowsTempFilesPurge.Program</StartupObject>
+    <ApplicationIcon>TempPurge128.ico</ApplicationIcon>
+    <Title>WindowsTempFilePurge</Title>
+    <Authors>Timothy Collins</Authors>
+    <Company>$(Authors)</Company>
+    <Description>Purge temp files with the option of purging downloaded files
+</Description>
+    <Copyright>twwc.tech, 2023</Copyright>
+    <PackageIcon>TempPurge128.ico</PackageIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="TempPurge128.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\TempPurge128.ico">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
