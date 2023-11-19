@@ -21,5 +21,15 @@ namespace WindowsTempFilesPurge
         {
 
         }
+
+        private void PurgeFilesButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void DownloadsCheckbox_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
