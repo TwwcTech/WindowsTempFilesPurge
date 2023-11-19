@@ -12,6 +12,7 @@
 - **User-Friendly**: With its intuitive interface and clear instructions, TempFilePurge is easy to use, making system clean-up a hassle-free task.
 
 **Application Preview**:
+
 <img width="278" alt="TempPurge_MainWindow" src="https://github.com/TwwcTech/WindowsTempFilesPurge/assets/71518263/44ea1711-aa5d-4878-9f61-27584143b095">
 
 Remember, a clean system is a happy system!
