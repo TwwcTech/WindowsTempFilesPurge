@@ -12,6 +12,7 @@
 - **User-Friendly**: With its intuitive interface and clear instructions, TempFilePurge is easy to use, making system clean-up a hassle-free task.
 
 **Full Changelog**: https://github.com/TwwcTech/WindowsTempFilesPurge/commits/v1.0.0
+
 **Full Changelog**: https://github.com/TwwcTech/WindowsTempFilesPurge/compare/v1.0.0...v1.0.1
 
 # Application Preview
