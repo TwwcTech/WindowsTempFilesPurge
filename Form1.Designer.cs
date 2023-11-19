@@ -34,7 +34,7 @@
             documentationToolStripMenuItem = new ToolStripMenuItem();
             PurgeFilesButton = new Button();
             DownloadsCheckbox = new CheckBox();
-            progressBar1 = new ProgressBar();
+            PurgeProgressBar = new ProgressBar();
             TempPurgeMenu.SuspendLayout();
             SuspendLayout();
             // 
@@ -92,19 +92,19 @@
             DownloadsCheckbox.UseVisualStyleBackColor = true;
             DownloadsCheckbox.CheckedChanged += DownloadsCheckbox_CheckedChanged;
             // 
-            // progressBar1
+            // PurgeProgressBar
             // 
-            progressBar1.Location = new Point(12, 389);
-            progressBar1.Name = "progressBar1";
-            progressBar1.Size = new Size(538, 34);
-            progressBar1.TabIndex = 3;
+            PurgeProgressBar.Location = new Point(12, 389);
+            PurgeProgressBar.Name = "PurgeProgressBar";
+            PurgeProgressBar.Size = new Size(538, 34);
+            PurgeProgressBar.TabIndex = 3;
             // 
             // TempPurgeForm
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(562, 450);
-            Controls.Add(progressBar1);
+            Controls.Add(PurgeProgressBar);
             Controls.Add(DownloadsCheckbox);
             Controls.Add(PurgeFilesButton);
             Controls.Add(TempPurgeMenu);
@@ -131,6 +131,6 @@
         private ToolStripMenuItem documentationToolStripMenuItem;
         private Button PurgeFilesButton;
         private CheckBox DownloadsCheckbox;
-        private ProgressBar progressBar1;
+        private ProgressBar PurgeProgressBar;
     }
 }
