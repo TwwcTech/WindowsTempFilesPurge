@@ -34,11 +34,12 @@
             // AboutLabel
             // 
             AboutLabel.AutoSize = true;
+            AboutLabel.BorderStyle = BorderStyle.Fixed3D;
             AboutLabel.Dock = DockStyle.Fill;
             AboutLabel.Font = new Font("Century Gothic", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             AboutLabel.Location = new Point(0, 0);
             AboutLabel.Name = "AboutLabel";
-            AboutLabel.Size = new Size(99, 34);
+            AboutLabel.Size = new Size(101, 36);
             AboutLabel.TabIndex = 0;
             AboutLabel.Text = "label1";
             // 
@@ -46,7 +47,7 @@
             // 
             AutoScaleDimensions = new SizeF(12F, 30F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(776, 525);
             Controls.Add(AboutLabel);
             FormBorderStyle = FormBorderStyle.Fixed3D;
             MaximizeBox = false;
