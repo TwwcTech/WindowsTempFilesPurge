@@ -9,7 +9,7 @@
 
         private void AboutForm_Load(object sender, EventArgs e)
         {
-
+            AboutLabel.Text = ""; // Complete the label text
         }
     }
 }
