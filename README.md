@@ -13,6 +13,6 @@
 
 Remember, a clean system is a happy system!
 
-<img width="1152" alt="TempPurge_MainWindow" src="https://github.com/TwwcTech/WindowsTempFilesPurge/assets/71518263/36122f9d-350b-4d6b-9514-beefb6192676">
+<img width="278" alt="TempPurge_MainWindow" src="https://github.com/TwwcTech/WindowsTempFilesPurge/assets/71518263/3431882e-4332-4349-bf4e-13035995c5b7">
 
 **Full Changelog**: https://github.com/TwwcTech/WindowsTempFilesPurge/commits/v1.0.0
