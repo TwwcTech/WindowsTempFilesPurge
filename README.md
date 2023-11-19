@@ -16,7 +16,5 @@
 <img width="278" alt="TempPurge_MainWindow" src="https://github.com/TwwcTech/WindowsTempFilesPurge/assets/71518263/44ea1711-aa5d-4878-9f61-27584143b095">
 
 
-Remember, a clean system is a happy system!
-
 
 **Full Changelog**: https://github.com/TwwcTech/WindowsTempFilesPurge/commits/v1.0.0
