@@ -4,7 +4,7 @@
 
 **Platform**: Windows 10+
 
-**Description**: TempFilePurge is an efficient open-source application designed to help users maintain a clean and optimized system. It achieves this by purging all unnecessary and unused temporary files from your system, freeing up valuable storage space and improving system performance.
+**Description**: TempFilePurge is an efficient open-source application designed to help users maintain a clean and optimized system. It achieves this by purging all unnecessary and unused temporary files from your local application data folder, freeing up storage space and improving system performance.
 
 **Key Features**:
 - **Efficient Purging**: TempFilePurge swiftly identifies and removes all not-in-use temporary files, reducing clutter and enhancing your system's efficiency.
