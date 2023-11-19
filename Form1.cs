@@ -24,7 +24,7 @@ namespace WindowsTempFilesPurge
 
         private void documentationToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Process.Start(new ProcessStartInfo("cmd", $@"/c start https://github.com/TwwcTech") { CreateNoWindow = true }); // complete the url
+            Process.Start(new ProcessStartInfo("cmd", $@"/c start https://github.com/TwwcTech") { CreateNoWindow = true });
         }
 
         private void PurgeFilesButton_Click(object sender, EventArgs e)
