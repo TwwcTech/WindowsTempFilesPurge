@@ -56,7 +56,7 @@
             ShowIcon = false;
             SizeGripStyle = SizeGripStyle.Hide;
             StartPosition = FormStartPosition.CenterParent;
-            Text = "About";
+            Text = "About Windows Temp Files Purge";
             Load += AboutForm_Load;
             ResumeLayout(false);
             PerformLayout();
