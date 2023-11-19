@@ -1,5 +1,6 @@
 using System.Diagnostics;
 using WindowsTempFilesPurge.Backend.Purger;
+using WindowsTempFilesPurge.Frontend.About;
 
 namespace WindowsTempFilesPurge
 {
@@ -17,7 +18,8 @@ namespace WindowsTempFilesPurge
 
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            Form aboutForm = new AboutForm();
+            aboutForm.ShowDialog();
         }
 
         private void documentationToolStripMenuItem_Click(object sender, EventArgs e)
