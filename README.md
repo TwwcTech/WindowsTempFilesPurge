@@ -12,7 +12,7 @@ WindowsTempFilesPurge, also known as TempFilePurge, is a powerful and efficient 
 
 ## How to Use
 
-Using WindowsTempFilesPurge is straightforward. Simply launch the application and choose whether you want to purge files from the local application data folder, the downloads folder, or both. WindowsTempFilesPurge will handle the rest, leaving you with a cleaner and more optimized system.
+Using WindowsTempFilesPurge is straightforward. Simply launch the application and choose the purge files button with the option to purge files from the Downloads folder. WindowsTempFilesPurge will handle the rest, leaving you with a cleaner and more optimized system.
 
 We hope you find WindowsTempFilesPurge to be a valuable tool in your system optimization toolkit. Please feel free to contribute to the WindowsTempFilesPurge project on GitHub and share any issues or suggestions you may have. Happy purging! 🧹
 
