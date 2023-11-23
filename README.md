@@ -1,15 +1,20 @@
 # WindowsTempFilesPurge
 
-**Application Name**: TempFilePurge
+WindowsTempFilesPurge, also known as TempFilePurge, is a powerful and efficient open-source application designed to optimize your Windows 10+ system. It does this by purging all unnecessary and unused temporary files from your local application data folder.
 
-**Platform**: Windows 10+
+## Features
 
-**Description**: TempFilePurge is an efficient open-source application designed to help users maintain a clean and optimized system. It achieves this by purging all unnecessary and unused temporary files from your local application data folder, freeing up storage space and improving system performance.
+- **Temp File Purging**: WindowsTempFilesPurge can purge all not-in-use temporary files from your local application data folder. This helps free up storage space and improve system performance.
 
-**Key Features**:
-- **Efficient Purging**: TempFilePurge swiftly identifies and removes all not-in-use temporary files, reducing clutter and enhancing your system's efficiency.
-- **Downloads Folder Clean-Up**: An additional feature allows users to purge files from the Downloads folder, often a neglected source of unused and forgotten files.
-- **User-Friendly**: With its intuitive interface and clear instructions, TempFilePurge is easy to use, making system clean-up a hassle-free task.
+- **Downloads Folder Purging**: In addition to the local application data folder, WindowsTempFilesPurge also provides an option to purge files from the downloads folder. This allows you to maintain a clean and optimized downloads folder.
+
+- **User-Friendly**: WindowsTempFilesPurge is designed to be easy to use. With just a few clicks, you can purge all unnecessary and unused files from your system.
+
+## How to Use
+
+Using WindowsTempFilesPurge is straightforward. Simply launch the application and choose whether you want to purge files from the local application data folder, the downloads folder, or both. WindowsTempFilesPurge will handle the rest, leaving you with a cleaner and more optimized system.
+
+We hope you find WindowsTempFilesPurge to be a valuable tool in your system optimization toolkit. Please feel free to contribute to the WindowsTempFilesPurge project on GitHub and share any issues or suggestions you may have. Happy purging! 🧹
 
 **Full Changelog**: https://github.com/TwwcTech/WindowsTempFilesPurge/commits/v1.0.0
 
