@@ -20,6 +20,6 @@ We hope you find WindowsTempFilesPurge to be a valuable tool in your system opti
 
 **Full Changelog**: https://github.com/TwwcTech/WindowsTempFilesPurge/compare/v1.0.0...v1.0.1
 
-# Application Preview
+# Screenshots
 
 <img width="278" alt="TempPurge_MainWindow" src="https://github.com/TwwcTech/WindowsTempFilesPurge/assets/71518263/44ea1711-aa5d-4878-9f61-27584143b095">
